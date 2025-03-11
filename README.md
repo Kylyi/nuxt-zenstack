@@ -1,6 +1,6 @@
 # How to repro
 
-Make sure to use node
+Make sure to use node@22
 
 ```
 pnpm install
